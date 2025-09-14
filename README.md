@@ -22,3 +22,5 @@ A Python CLI tool to log food and workouts using Nutritionix, store in Google Sh
    ```bash
    git clone https://github.com/AbdulHadi640/Calories-Counter.git
    cd Calories-Counter
+[click here to view the sheet](https://docs.google.com/spreadsheets/d/17nfWESOp7cKt3paD4653xhETofcB1hn5sBf32Zg2ri8/edit?gid=0#gid=0)
+
